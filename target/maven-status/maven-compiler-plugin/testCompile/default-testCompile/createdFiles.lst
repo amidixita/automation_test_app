@@ -1,0 +1,8 @@
+com\studentapp\junit\studentsinfo\ParseDynamicJson.class
+com\studentapp\junit\studentsinfo\OrderStepImplementation.class
+com\studentapp\testbase\TestBase.class
+com\studentapp\cucumber\TestRunner.class
+com\studentapp\utils\TestUtils.class
+com\studentapp\cucumber\steps\TestStepDefination.class
+com\studentapp\junit\studentsinfo\RegistrationStepImplementation.class
+com\studentapp\cucumber\serenity\TestSerenitySteps.class
